@@ -1,0 +1,20 @@
+html body {
+    font-family: monospace, sans-serif;
+    margin: 20px;
+    background-color: #4BBF39;
+}
+.Contacto{
+    background-color: #4C7AEF;
+    color:white;
+    display: inline-block;
+    border-radius: 10px;
+}
+.Trabajo{
+    background-color: #E89D66;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+    position:absolute;
+    top: 15px;
+    left: 600px;
+}
